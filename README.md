@@ -17,8 +17,8 @@ To set up the project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gesture_recognition.git
-    cd gesture_recognition
+    git clone https://github.com/JeyaramKumaravel/hand-gesture-recognizer.git
+    cd hand-gesture-recognizer
     ```
 
 2.  **Create a virtual environment (recommended):**
